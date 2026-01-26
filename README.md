@@ -1,1 +1,1 @@
-# pbi-tsg-academy
+# TSG Academy - Power BI Course
