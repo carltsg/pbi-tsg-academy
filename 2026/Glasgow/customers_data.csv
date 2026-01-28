@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Region,Segment,Address,City,PostCode,Latitude,Longitude
+1,Apex Manufacturing Co,North,Enterprise,36 Enterprise Way,Leeds,LS1 1LJ,53.79685,-1.551
+2,Summit Tech Solutions,North,Enterprise,9 High Street,Leeds,LS2 3EX,53.785437,-1.59838
+3,Northern Star Industries,North,Enterprise,7 George Street,Leeds,LS1 7BA,53.800243,-1.552946
+4,Granite Peak Holdings,Scotland,Enterprise,151 Queen Street,Ayr,KA7 5PW,55.456641,-4.629029
+5,Evergreen Systems Corp,Scotland,Enterprise,40 The Green,Dumfries,DG2 1RW,55.071109,-3.604093
+6,Timber Ridge Partners,North,Enterprise,92 Trade Street,Bradford,BD5 7JT,53.77717,-1.787636
+7,Lakeside Ventures LLC,North,Enterprise,118 George Street,Bradford,BD5 5AG,53.775569,-1.782446
+8,Pinecrest Business Group,North,Enterprise,213 Commercial Road,Leeds,LS4 6LF,53.788789,-1.596478
+9,Aurora Digital Services,North,Enterprise,12 Industrial Estate,Huddersfield,HD2 6ED,53.644092,-1.782892
+10,Northwind Consulting,Scotland,Enterprise,98 Queen Street,Berwick-upon-Tweed,TD15 9SQ,55.773084,-2.005836
+11,Clearwater Logistics,Scotland,SMB,54 Industrial Estate,Aberdeen,AB10 8LG,57.136821,-2.09907
+12,Frostline Distribution,Scotland,SMB,63 Mill Lane,Dundee,DD1 8RY,56.471598,-2.94491
+13,Maple Grove Trading,North,SMB,143 King Street,Preston,PR5 5QY,53.746073,-2.675755
+14,Riverdale Office Solutions,Scotland,SMB,103 Queen Street,Edinburgh,EH7 1QJ,55.968392,-3.171311
+15,Highland Tech Services,North,SMB,128 West Street,Leeds,LS3 2JE,53.788827,-1.598833
+16,Cascade Business Supply,North,SMB,191 George Street,Preston,PR4 5TQ,53.764838,-2.699218
+17,Birchwood Enterprises,North,SMB,93 King Street,Blackpool,FY2 6QH,53.819699,-3.036659
+18,Snowcap Marketing Group,North,SMB,221 Victoria Road,Newcastle upon Tyne,NE3 2GX,54.959914,-1.574281
+19,Trailhead Creative Agency,North,SMB,99 West Street,Newcastle upon Tyne,NE2 3TR,55.001332,-1.650039
+20,Northgate Professional,Scotland,SMB,221 High Street,Edinburgh,EH1 5UJ,55.971084,-3.17587
+21,Cedar Point Consulting,Scotland,Consumer,29 Bridge Street,Aberdeen,AB25 8RT,57.146761,-2.094649
+22,Pine Valley Retail,North,Consumer,225 Enterprise Way,York,YO24 5DH,53.946577,-1.120484
+23,Lakefront Associates,North,Consumer,223 Commercial Road,Liverpool,L5 6HU,53.420508,-2.926857
+24,Mountain View Co-op,North,Consumer,196 Mill Lane,Liverpool,L4 8FL,53.406774,-2.995343
+25,Nordic Design Studio,North,Consumer,126 High Street,Blackpool,FY2 4XX,53.839207,-3.04457
+26,Frosty Meadow Shop,North,Consumer,62 Merchants Road,Leeds,LS3 7YR,53.815076,-1.504406
+27,Woodland Creek Store,Scotland,Consumer,209 Church Lane,Aberdeen,AB10 5QL,57.138606,-2.102197
+28,Alpine Edge Boutique,North,Consumer,243 George Street,Blackpool,FY4 2BE,53.81897,-3.035388
+29,Glacier Point Market,North,Consumer,247 The Green,Newcastle upon Tyne,NE2 3SD,54.961487,-1.574005
+30,Boreal Trading Post,North,Consumer,167 London Road,Blackpool,FY4 7TW,53.820484,-3.038593
+31,Coastal Dynamics Inc,South,Enterprise,64 King Street,Guildford,GU3 9AE,51.249345,-0.552923
+32,Palmetto Industries,Scotland,Enterprise,59 Castle Street,Glasgow,G2 9QD,55.863799,-4.255732
+33,Sunbelt Manufacturing,Scotland,Enterprise,16 King Street,Edinburgh,EH8 2XR,55.956212,-3.1902
+34,Gulf Stream Holdings,South,Enterprise,132 King Street,Southampton,SO14 5WG,50.926175,-1.379856
+35,Magnolia Tech Corp,South,Enterprise,34 Enterprise Way,Exeter,EX1 5WH,50.734926,-3.504514
+36,Bayshore Systems Inc,South,Enterprise,207 North Street,Maidstone,ME15 6GX,51.273482,0.525916
+37,Coral Ridge Partners,Scotland,Enterprise,91 North Street,Glasgow,G20 1XP,55.84819,-4.268187
+38,Southern Cross Digital,South,Enterprise,166 Victoria Road,Reading,RG1 2QN,51.468869,-0.945922
+39,Cypress Point Group,South,Enterprise,50 The Green,Brighton,BN1 1JY,50.839919,-0.129423
+40,Tidewater Solutions,Scotland,Enterprise,72 South Street,Edinburgh,EH3 7DF,55.945513,-3.181847
+41,Sandcastle Ventures,Scotland,SMB,26 Station Road,Edinburgh,EH1 9RX,55.942377,-3.182553
+42,Beachside Business Co,South,SMB,43 North Street,Canterbury,CT2 5WS,51.264191,1.096712
+43,Pelican Bay Trading,South,SMB,43 West Street,Guildford,GU2 9HN,51.217993,-0.592209
+44,Sunshine State Supply,Scotland,SMB,109 Business Park,Edinburgh,EH6 7QF,55.944603,-3.182763
+45,Mangrove Marketing,South,SMB,76 The Green,Canterbury,CT4 2JJ,51.267911,1.096392
+46,Driftwood Consulting,Scotland,SMB,81 Station Road,Glasgow,G12 7BF,55.850111,-4.270504
+47,Seaside Tech Services,Scotland,SMB,41 Station Road,Aberdeen,AB24 5SA,57.14983,-2.091329
+48,Palm Harbor Office,South,SMB,18 Industrial Estate,Canterbury,CT1 2BJ,51.268082,1.092285
+49,Coastal Breeze LLC,South,SMB,149 Albert Road,Bournemouth,BH1 1PD,50.744496,-1.835376
+50,Seagrass Solutions,Scotland,SMB,150 Castle Street,Glasgow,G3 6WE,55.854949,-4.223939
+51,Ocean View Retail,Scotland,Consumer,184 New Road,Dundee,DD1 5WJ,56.464319,-2.972584
+52,Sandy Shore Market,South,Consumer,166 Bridge Street,Bournemouth,BH5 8JU,50.711635,-1.913215
+53,Tropical Sunset Shop,South,Consumer,160 Castle Street,Guildford,GU4 4EE,51.238773,-0.568358
+54,Marina Point Store,South,Consumer,68 Park Avenue,Southampton,SO17 6SS,50.888807,-1.394806
+55,Island Breeze Boutique,Scotland,Consumer,73 Mill Lane,Edinburgh,EH1 9DH,55.963649,-3.210471
+56,Lighthouse Corner,South,Consumer,157 Technology Park,Guildford,GU4 6EJ,51.219509,-0.593217
+57,Dolphin Bay Trading,South,Consumer,27 Merchants Road,Canterbury,CT2 4XT,51.279229,1.079606
+58,Coral Springs Outlet,Scotland,Consumer,142 Park Avenue,Edinburgh,EH1 4LY,55.959611,-3.215064
+59,Starfish Cove Market,Scotland,Consumer,53 Industrial Estate,Glasgow,G11 9XF,55.874116,-4.288328
+60,Hammock Haven Store,Scotland,Consumer,24 Commercial Road,Edinburgh,EH8 1LY,55.967243,-3.169784
+61,Eastern Seaboard Corp,East,Enterprise,198 Park Avenue,Southend-on-Sea,SS1 4GS,51.544571,0.707583
+62,Atlantic Gateway Inc,Scotland,Enterprise,110 George Street,Dundee,DD5 3AU,56.475675,-2.948621
+63,Metro Prime Holdings,East,Enterprise,140 Station Road,Norwich,NR1 3RA,52.611257,1.316644
+64,Eastside Tech Ventures,Scotland,Enterprise,33 Station Road,Glasgow,G1 6TQ,55.847993,-4.271567
+65,Harbor Light Industries,East,Enterprise,175 King Street,Peterborough,PE4 9UF,52.570454,-0.241666
+66,Beacon Hill Partners,Scotland,Enterprise,192 Park Avenue,Glasgow,G20 6HG,55.851963,-4.2728
+67,Liberty Square Systems,Scotland,Enterprise,46 Enterprise Way,Aberdeen,AB24 7WL,57.151838,-2.095289
+68,Colonial Heights Corp,East,Enterprise,208 King Street,Chelmsford,CM3 8WW,51.735016,0.467214
+69,Seaport Digital Group,East,Enterprise,220 East Street,Peterborough,PE2 1WD,52.567992,-0.242978
+70,Bayside Business Inc,Scotland,Enterprise,211 Technology Park,Glasgow,G2 5EL,55.853929,-4.225455
+71,Midtown Office Supply,East,SMB,103 New Road,Colchester,CO4 2YJ,51.902599,0.915686
+72,Downtown Tech Services,East,SMB,131 West Street,Peterborough,PE1 2SY,52.591048,-0.215852
+73,Urban Core Consulting,Scotland,SMB,46 Castle Street,Edinburgh,EH8 5ET,55.942956,-3.184237
+74,Cityscape Marketing,East,SMB,89 Enterprise Way,Peterborough,PE2 5RF,52.572314,-0.237089
+75,Eastgate Professional,East,SMB,231 Castle Street,Chelmsford,CM3 5TP,51.733598,0.468385
+76,Metro Link Solutions,East,SMB,1 Market Street,Colchester,CO1 1TY,51.888188,0.89512
+77,Harborview Trading Co,East,SMB,18 Industrial Estate,Bedford,MK40 2XH,52.134274,-0.462818
+78,Landmark Business LLC,East,SMB,185 Merchants Road,Chelmsford,CM3 5FQ,51.756759,0.489881
+79,Cornerstone East Inc,Scotland,SMB,84 West Street,Aberdeen,AB24 6JT,57.16585,-2.097816
+80,Gateway Commerce Group,Scotland,SMB,171 West Street,Dundee,DD3 1GE,56.461569,-2.970728
+81,Brownstone Retail Co,East,Consumer,214 High Street,Ipswich,IP1 9NE,52.05548,1.15195
+82,Riverside Corner Shop,Scotland,Consumer,156 Commercial Road,Glasgow,G3 8XB,55.852089,-4.272168
+83,Park Avenue Market,Scotland,Consumer,55 Market Street,Glasgow,G11 4BT,55.857834,-4.221293
+84,Cobblestone Trading,Scotland,Consumer,73 Market Street,Dundee,DD1 6RJ,56.453526,-2.998227
+85,Waterfront Boutique,East,Consumer,80 King Street,Milton Keynes,MK3 9UL,52.043365,-0.762759
+86,Historic District Store,East,Consumer,122 Albert Road,Colchester,CO1 2SL,51.883411,0.888444
+87,Townhouse Marketplace,Scotland,Consumer,50 Business Park,Inverness,IV2 3SQ,57.45936,-4.219496
+88,Boardwalk Outlet,East,Consumer,168 Business Park,Southend-on-Sea,SS3 3TX,51.528277,0.730556
+89,Eastwind Gift Shop,East,Consumer,46 Technology Park,Norwich,NR4 9AE,52.608292,1.319959
+90,Harbor Square Market,East,Consumer,235 Trade Street,Bedford,MK40 3XB,52.116637,-0.484322
+91,Pacific Rim Holdings,West,Enterprise,136 George Street,Cardiff,CF14 9FS,51.482618,-3.180587
+92,Golden State Industries,Scotland,Enterprise,229 Market Street,Aberdeen,AB11 4BL,57.163396,-2.099307
+93,Sunset Tech Corporation,West,Enterprise,191 Trade Street,Cheltenham,GL50 6HJ,51.917343,-2.053268
+94,Sierra Vista Partners,West,Enterprise,71 Innovation Drive,Swindon,SN1 6XS,51.552856,-1.778731
+95,Redwood Digital Inc,West,Enterprise,20 Business Park,Weston-super-Mare,BS24 3JG,51.330777,-3.001014
+96,Coastline Systems Corp,West,Enterprise,229 George Street,Swansea,SA2 7AG,51.621435,-3.94654
+97,Mesa Point Ventures,West,Enterprise,178 Park Avenue,Cardiff,CF14 7JL,51.503485,-3.149366
+98,Canyon Ridge Group,West,Enterprise,139 South Street,Gloucester,GL2 2RB,51.88081,-2.219195
+99,Desert Sun Holdings,West,Enterprise,232 Innovation Drive,Cheltenham,GL53 4HT,51.882421,-2.098907
+100,Valley Tech Solutions,Scotland,Enterprise,123 High Street,Edinburgh,EH4 5UT,55.960795,-3.216863
+101,Bayview Business Co,West,SMB,192 Enterprise Way,Newport,NP19 4RP,51.565996,-3.018493
+102,Hillside Consulting,West,SMB,70 North Street,Weston-super-Mare,BS23 2LQ,51.344587,-2.973882
+103,Vineyard Office Supply,West,SMB,174 Technology Park,Swindon,SN5 7XP,51.537719,-1.803021
+104,Sunset Strip Trading,West,SMB,160 George Street,Cheltenham,GL50 2LG,51.879464,-2.101057
+105,Ocean Cliff Services,West,SMB,110 Park Avenue,Bristol,BS5 5BE,51.489232,-2.614391
+106,Golden Gate Marketing,West,SMB,84 The Green,Swindon,SN5 7QP,51.553354,-1.780311
+107,Sequoia Systems LLC,West,SMB,193 Commerce Way,Swindon,SN4 9ER,51.571465,-1.760032
+108,Pacific Crest Business,West,SMB,192 George Street,Cheltenham,GL51 5BS,51.900223,-2.080204
+109,Coastal Trail Partners,Scotland,SMB,200 Commercial Road,Edinburgh,EH11 9XL,55.962224,-3.210223
+110,Westshore Professional,West,SMB,215 High Street,Bristol,BS3 7DP,51.452171,-2.58434
+111,Malibu Market Co,Scotland,Consumer,172 Victoria Road,Glasgow,G12 7TE,55.86462,-4.249706
+112,Silicon Beach Store,West,Consumer,197 London Road,Taunton,TA3 5SP,51.031695,-3.084015
+113,Napa Valley Retail,West,Consumer,28 Castle Street,Bath,BA2 5XF,51.378351,-2.360083
+114,Monterey Bay Shop,West,Consumer,51 Church Lane,Bristol,BS2 7RG,51.456894,-2.590219
+115,Carmel Creek Boutique,West,Consumer,198 Bridge Street,Taunton,TA3 5RX,51.015702,-3.104071
+116,Santa Cruz Trading,West,Consumer,89 George Street,Taunton,TA1 5NH,51.000105,-3.125349
+117,Big Sur Marketplace,West,Consumer,166 New Road,Cheltenham,GL53 6TT,51.882697,-2.096394
+118,Laguna Point Outlet,Scotland,Consumer,111 London Road,Glasgow,G12 9QF,55.846907,-4.265863
+119,Palisades Gift Shop,West,Consumer,188 Market Street,Swindon,SN2 2NW,51.558088,-1.783502
+120,Redwood Grove Market,Scotland,Consumer,112 Commerce Way,Inverness,IV1 1JH,57.477222,-4.228493
+121,Heartland Industries,Central,Enterprise,72 Merchants Road,Lincoln,LN4 4HF,53.251613,-0.515787
+122,Prairie Tech Holdings,Central,Enterprise,172 West Street,Northampton,NN1 1JU,52.239101,-0.900401
+123,Midland Manufacturing,Central,Enterprise,125 The Green,Wolverhampton,WV1 8SY,52.586295,-2.13249
+124,Crossroads Systems Inc,Central,Enterprise,226 Albert Road,Wolverhampton,WV2 7UR,52.603735,-2.104167
+125,Great Plains Partners,Central,Enterprise,22 King Street,Derby,DE21 3AE,52.942298,-1.449736
+126,Central Valley Corp,Scotland,Enterprise,122 Commercial Road,Edinburgh,EH8 6XA,55.955848,-3.190328
+127,Heartstone Digital,Central,Enterprise,57 West Street,Northampton,NN4 1XJ,52.25877,-0.878285
+128,Prairie Wind Ventures,Central,Enterprise,136 London Road,Coventry,CV1 8FT,52.426907,-1.497525
+129,Midwest Prime Group,Central,Enterprise,180 South Street,Stoke-on-Trent,ST6 9PT,52.984987,-2.20151
+130,Cornbelt Business Inc,Central,Enterprise,185 The Green,Derby,DE24 9SX,52.920192,-1.470837
+131,Plainview Consulting,Central,SMB,50 The Green,Wolverhampton,WV4 3UT,52.587484,-2.124932
+132,Farmstead Office Co,Scotland,SMB,26 Commerce Way,Glasgow,G12 5GN,55.862895,-4.250656
+133,Harvest Moon Trading,Scotland,SMB,78 High Street,Edinburgh,EH7 4WA,55.946216,-3.184073
+134,Amber Waves Supply,Central,SMB,142 Bridge Street,Worcester,WR1 5JL,52.172494,-2.240204
+135,Sunflower Marketing,Central,SMB,147 Bridge Street,Leicester,LE3 6XD,52.635428,-1.13813
+136,Tallgrass Tech Services,Central,SMB,248 Station Road,Northampton,NN2 3JR,52.24062,-0.900248
+137,Rolling Hills LLC,Central,SMB,103 East Street,Derby,DE21 4DS,52.903117,-1.494964
+138,Meadowbrook Business,Central,SMB,208 Castle Street,Nottingham,NG5 6XT,52.931582,-1.18135
+139,Prairie Rose Partners,Central,SMB,196 North Street,Derby,DE23 1HS,52.904325,-1.495915
+140,Central Hub Solutions,Central,SMB,116 Corporation Street,Lincoln,LN5 1YR,53.213688,-0.560642
+141,Heartland Corner Shop,Scotland,Consumer,159 Station Road,Glasgow,G12 4WS,55.849463,-4.270179
+142,Country Road Market,Central,Consumer,55 Queen Street,Lincoln,LN5 7XX,53.249214,-0.520335
+143,Prairie View Retail,Central,Consumer,20 Mill Lane,Nottingham,NG7 4UJ,52.952951,-1.156781
+144,Hometown Trading Post,Central,Consumer,121 Bridge Street,Birmingham,B3 7UA,52.480864,-1.837978
+145,Main Street Boutique,Central,Consumer,180 Trade Street,Birmingham,B4 6RG,52.460636,-1.91273
+146,Farmhouse Gift Shop,Central,Consumer,151 Industrial Estate,Northampton,NN4 3XA,52.258521,-0.881761
+147,Countryside Outlet,Central,Consumer,166 Park Avenue,Coventry,CV4 1DS,52.38644,-1.543222
+148,Grain Belt Store,Central,Consumer,43 Technology Park,Derby,DE21 8GB,52.942853,-1.45459
+149,Windmill Market Co,Central,Consumer,120 Business Park,Derby,DE22 7PH,52.944962,-1.448621
+150,Crossroads Corner,Central,Consumer,139 East Street,Derby,DE23 6PR,52.899818,-1.500222
