@@ -2,6 +2,8 @@
 
 ## Exersise 3.2: Create Your First Measures ##
 
+Total Net Revenue = SUM(Sales[NetRevenue])
+
 Total VAT = SUM(Sales[VAT])
 
 Total Gross Revenue = SUM(Sales[GrossRevenue])
