@@ -8,6 +8,8 @@ Total VAT = SUM(Sales[VAT])
 
 Total Gross Revenue = SUM(Sales[GrossRevenue])
 
+Total Quantity = SUM(Sales[Quantity])
+
 ## Exersise 3.3: Create Count Measures ##
 
 Total Orders = COUNTROWS(Sales)
@@ -19,6 +21,8 @@ Total Products Sold = DISTINCTCOUNT(Sales[ProductID])
 ## Exersise 3.4: Create Average and Margin Measures ##
 
 Avg Order Value = DIVIDE([Total Net Revenue], [Total Orders], 0)
+
+Avg Selling Price = DIVIDE([Total Net Revenue], [Total Quantity], 0)
 
 Total Cost = SUMX(Sales, Sales[Quantity] * RELATED(Products[CostPrice]))
 
