@@ -76,7 +76,9 @@ CALCULATE(
     SAMEPERIODLASTYEAR('Date'[Date])
 )
 ```
-
+```
+Revenue YoY Change = [Total Net Revenue] - [Revenue Last Year]
+```
 ```
 Revenue YoY % =
 DIVIDE(
